@@ -10,4 +10,9 @@ Jeu d'arcade sur les autoroutes belges : traverse la Belgique jusqu'à la fronti
 - Barre de compétences : cornets de frites (3 = tempête qui balaie l'écran) et Roadstar (propulseurs)
 - Clavier : ← → ↑ ↓, Espace = Roadstar, F = cornets, P = pause
 
-Prototype : les pubs et l'achat « sans pub » sont simulés.
+## Le jeu
+- Vue 3D en perspective façon diorama low-poly, dessinée entièrement en canvas 2D (aucune dépendance, un seul fichier `index.html`).
+- Six étapes, chacune avec son ciel et son ambiance : aube sur Bruxelles, plein soleil vers Mons, heure dorée vers la France, drache au crépuscule à Liège, nuit d'Ardenne sous les lampadaires, lever du jour sur le port d'Anvers.
+- Folklore sur les ponts, friteries au bord de la route, et la poule du nid-de-poule.
+
+Les pubs et l'achat « sans pub » sont simulés.
